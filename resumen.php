@@ -354,7 +354,7 @@ if (isset($_POST['pass_ins'])){
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script type="text/javascript" src="assets/js/bootstrap.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="assets/js/lineandbars.js"></script>
 	<script type="text/javascript" src="assets/js/dash-charts.js"></script>
 	<script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
