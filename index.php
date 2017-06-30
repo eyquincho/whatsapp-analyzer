@@ -60,7 +60,7 @@
 					1. No almacenamos material con copyright en nuestros servidores<br>
 					2. El contenido de las conversaciones es responsabilidad única del usuario<br>
 					3. No vendemos datos a terceros<br>
-					4. En caso de olvido de contraseña o similar, el usuario puede ponerse en contacto mediante correo electrónico con <strong>joaquin(at)muruais.com</strong> para solucionar o borrar cualquier dato
+					4. En caso de olvido de contraseña o similar, el usuario puede ponerse en contacto mediante correo electrónico con <strong>joaquin(at)muruais.com</strong> para borrar cualquier dato
 				</p>
 			</div>
 			<h2>4º Enviar</h2>
