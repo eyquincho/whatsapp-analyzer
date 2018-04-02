@@ -12,3 +12,4 @@ El archivo `php/process.php` se encarga del limpiado y fragmentación de las lin
 
 * El procesado del archivo lleva demasiado tiempo, superando con creces el valor `max_execution_time` definido en el `php.ini`, e imposible de modificar en la mayor parte de los servidores compartidos.
 * La estética es heredada de una plantilla que encontré en el momento, habría que rehacerla con un poco de cabeza
+* Los mensajes se guardan completos en la base de datos, seguro que hay algún problema legal con eso, de ahí que no sea público...
