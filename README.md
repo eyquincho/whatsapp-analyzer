@@ -6,10 +6,9 @@ La primera solución para el problema fue con Excel, tras un trabajo largo y ted
 ### Funcionamiento
 
 La aplicación tiene un pequeño formulario en que el usuario selecciona el documento .txt extraído de Whatsapp, introduce una contraseña para el borrado de la información, y acepta la política de datos.
-El archivo `php/process.php` se encarga del limpiado y fragmentación de las lineas de texto, que guarda en una tabla creada específicamente para el usuario.
+El archivo `php/process.php` se encarga del limpiado y fragmentación de las lineas de texto, que guarda en una tabla creada específicamente para el archivo.
 
 ### Problemas conocidos
 
 * El procesado del archivo lleva demasiado tiempo, superando con creces el valor `max_execution_time` definido en el `php.ini`, e imposible de modificar en la mayor parte de los servidores compartidos.
 * La estética es heredada de una plantilla que encontré en el momento, habría que rehacerla con un poco de cabeza
-* Los mensajes se guardan completos en la base de datos, seguro que hay algún problema legal con eso, de ahí que no sea público...
