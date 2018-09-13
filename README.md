@@ -1,3 +1,5 @@
+### NOTA: En ningún momento se ha priorizado la seguridad a la hora de hacer este proyecto, no se recomienda su uso
+
 ### Origen
 
 El repertorio de original nombre nace de la necesidad de mostrar en un grupo concreto de WhatsApp el ranking de personas que más escribían y de mensajes por hora del día.
